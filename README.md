@@ -93,5 +93,3 @@ This project is released under the [MIT License](LICENSE).
 
 Enjoy your perfect iced pour-over!
 
-```
-```
